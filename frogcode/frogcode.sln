@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frogcode", "frogcode\frogcode.csproj", "{5E0B0B2D-F42E-4089-8889-F8F1E4CADD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0B0B2D-F42E-4089-8889-F8F1E4CADD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0B0B2D-F42E-4089-8889-F8F1E4CADD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0B0B2D-F42E-4089-8889-F8F1E4CADD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0B0B2D-F42E-4089-8889-F8F1E4CADD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A0A369-6720-4C5F-847C-B4D4B022F94B}
+	EndGlobalSection
+EndGlobal
